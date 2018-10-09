@@ -11,5 +11,5 @@ spring:
 env:
   test4
 girl:
-  name: ddd
-  age: 101
+  name: AZX
+  age: 50
