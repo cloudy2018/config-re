@@ -11,5 +11,5 @@ spring:
 env:
   test4
 girl:
-  name: jkl11
-  age: 54
+  name: bn
+  age: 50
