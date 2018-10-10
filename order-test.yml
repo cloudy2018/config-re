@@ -11,5 +11,5 @@ spring:
 env:
   test4
 girl:
-  name: yyyy1
+  name: yy
   age: 1001
